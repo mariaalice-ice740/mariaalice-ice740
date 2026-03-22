@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou a Maria Alice
 
-💻 Analista de QA | Qualidade de Software
-📍 Brasil  
+💻 Analista de QA | Qualidade de Software  
+📍 Brasil
 
 ---
 
-## 🚀 Sobre mim
+## 💡 Sobre mim
 Atuo com testes de software, garantindo a qualidade das aplicações por meio da validação de funcionalidades e da análise do comportamento dos sistemas em diferentes cenários.
 Busco evolução contínua na área de qualidade de software, com foco em boas práticas de teste e na melhoria da experiência do usuário.
 
@@ -27,7 +27,7 @@ Busco evolução contínua na área de qualidade de software, com foco em boas p
 ---
 
 ## 📂 Projetos em destaque
-🔹 API-Trello / Grocery-Store-API-Postman-Tests – criação, validação de endpoints e testes de cenários  
+🔹API-Trello / Grocery-Store-API-Postman-Tests – criação, validação de endpoints e testes de cenários  
 🔹Projetos-Sikuli – automação de fluxos e validação visual  
 
 ---
