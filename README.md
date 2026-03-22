@@ -27,8 +27,8 @@ Busco evolução contínua na área de qualidade de software, com foco em boas p
 ---
 
 ## 📂 Projetos em destaque
-🔹 Testes de API com Postman – criação, validação de endpoints e testes de cenários  
-🔹 Testes automatizados com Sikuli – automação de fluxos e validação visual  
+🔹 API-Trello / Grocery-Store-API-Postman-Tests – criação, validação de endpoints e testes de cenários  
+🔹Projetos-Sikuli – automação de fluxos e validação visual  
 
 ---
 
