@@ -19,10 +19,12 @@ Busco evolução contínua na área de qualidade de software, com foco em boas p
 ## 🛠️ Tecnologias e Ferramentas
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Sikuli](https://img.shields.io/badge/Sikuli-AI%20Testing-blue?style=for-the-badge)
+![Sikuli](https://img.shields.io/badge/Sikuli-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
-![QA](https://img.shields.io/badge/QA-Testing-green?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
