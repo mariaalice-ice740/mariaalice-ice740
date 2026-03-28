@@ -34,12 +34,6 @@ Busco evolução contínua na área de qualidade de software, com foco em boas p
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaalice-ice740&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaalice-ice740&layout=compact)
-
----
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/maria-alice-zimermann-817596346/
