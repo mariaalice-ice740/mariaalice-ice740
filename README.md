@@ -6,13 +6,18 @@
 ---
 
 ## 💡 Sobre mim
-Atuo com testes de software, garantindo a qualidade das aplicações por meio da validação de funcionalidades e da análise do comportamento dos sistemas em diferentes cenários.
-Busco evolução contínua na área de qualidade de software, com foco em boas práticas de teste e na melhoria da experiência do usuário.
 
-Áreas de atuação e desenvolvimento:
-- Testes de API com Postman  
-- Automação com Cypress (em aprendizado)  
-- Testes automatizados com Sikuli   
+Atuo como Analista de QA, com experiência em testes manuais, funcionais e de API, garantindo a qualidade das aplicações por meio da validação de funcionalidades, análise de regras de negócio e verificação do comportamento do sistema em diferentes cenários.
+
+Tenho atuação em todo o ciclo de testes, desde o entendimento de requisitos até a execução e acompanhamento de bugs, contribuindo para a estabilidade e confiabilidade das entregas.
+
+Possuo experiência com testes de API utilizando Postman, incluindo validação de endpoints, criação de cenários positivos e negativos e encadeamento de requisições com uso de variáveis.
+
+Também atuo com testes automatizados e manutenção de scripts com Sikuli, incluindo debug, correções e melhorias de estabilidade, além de apoio na configuração de ambientes de execução de testes.
+
+Atualmente, venho direcionando meu desenvolvimento para automação de testes com Cypress e JavaScript, buscando evolução contínua na área de qualidade de software e maior eficiência nos processos de teste.
+
+Tenho foco em melhoria contínua, aprendizado constante e colaboração com times de desenvolvimento e produto, sempre contribuindo para a entrega de software com mais qualidade e segurança. 
 
 ---
 
